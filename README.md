@@ -25,7 +25,7 @@ If you have any questions or issues, please contact the author.
    This graph depicts the correlation between the number of conceded goals and the H-VDEP score.
 
 <div align="left">
-<img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/conceded_goals_relation.png" width="50%" />
+<img src="https://github.com/user-attachments/assets/9959b6e1-c4bc-408f-aa81-069100d20665" width="50%" />
 </div>
 ## Author
 Ren Kobayashi - kobayashi.ren@g.sp.m.is.nagoya-u.ac.jp
