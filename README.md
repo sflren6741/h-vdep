@@ -3,7 +3,7 @@ H-VDEP (Valuing Defense by Estimating Probabilities in Handball) is a machine le
 If you have any questions or issues, please contact the author.
 
 ## Sample Video
-![H-VDEP Sample Video](https://github.com/YOUR_USERNAME/H-VDEP/assets/sample_video_link)  
+![H-VDEP Sample Video](https://github.com/user-attachments/assets/226365ba-2bae-43d6-947d-c303dc09e364)  
 *Example animation demonstrating the H-VDEP analysis in action.*
 
 ## Sample Result
