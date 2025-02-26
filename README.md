@@ -7,12 +7,26 @@ If you have any questions or issues, please contact the author.
 *Example animation demonstrating the H-VDEP analysis in action.*
 
 ## Sample Result
-Below is an example of H-VDEP output, illustrating the evaluation of defensive actions during a match.
+1. **H-VDEP Output Result**  
+   This image shows the output metrics produced by the H-VDEP model when applied to a match.
+
+<div align="center">
+<img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/sample_output.png" width="50%" />
+</div>
+
+2. **Feature Importance**  
+   This figure illustrates the importance of various features used in predicting defensive events.
 
 <div align="left">
 <img src="https://github.com/user-attachments/assets/211d312d-30d0-4bd7-8be6-059d3fe8a7fb" width="50%" />
 </div>
 
+3. **Relationship between Conceded Goals and H-VDEP**  
+   This graph depicts the correlation between the number of conceded goals and the H-VDEP score.
+
+<div align="center">
+<img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/conceded_goals_relation.png" width="50%" />
+</div>
 ## Author
 Ren Kobayashi - kobayashi.ren@g.sp.m.is.nagoya-u.ac.jp
 ## Requirements
