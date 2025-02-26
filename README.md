@@ -10,7 +10,7 @@ If you have any questions or issues, please contact the author.
 1. **H-VDEP Output Result**  
    This image shows the output metrics produced by the H-VDEP model when applied to a match.
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/user-attachments/assets/6b103159-dab6-407e-ac26-17c935ee2e2c" width="50%" />
 </div>
 
@@ -24,7 +24,7 @@ If you have any questions or issues, please contact the author.
 3. **Relationship between Conceded Goals and H-VDEP**  
    This graph depicts the correlation between the number of conceded goals and the H-VDEP score.
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/conceded_goals_relation.png" width="50%" />
 </div>
 ## Author
