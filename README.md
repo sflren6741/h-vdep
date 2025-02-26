@@ -10,7 +10,7 @@ If you have any questions or issues, please contact the author.
 Below is an example of H-VDEP output, illustrating the evaluation of defensive actions during a match.
 
 <div align="left">
-<img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/sample_result_image" width="50%" />
+<img src="https://github.com/user-attachments/assets/211d312d-30d0-4bd7-8be6-059d3fe8a7fb" width="50%" />
 </div>
 
 ## Author
