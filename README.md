@@ -11,7 +11,7 @@ If you have any questions or issues, please contact the author.
    This image shows the output metrics produced by the H-VDEP model when applied to a match.
 
 <div align="center">
-<img src="https://github.com/YOUR_USERNAME/H-VDEP/assets/sample_output.png" width="50%" />
+<img src="https://github.com/user-attachments/assets/6b103159-dab6-407e-ac26-17c935ee2e2c" width="50%" />
 </div>
 
 2. **Feature Importance**  
