@@ -38,12 +38,11 @@ Ren Kobayashi - kobayashi.ren@g.sp.m.is.nagoya-u.ac.jp
 ## Evaluation from Scratch
 
 ### Step 1: Downloading the Required Data
-Please download the necessary datasets from [Google Drive](https://drive.google.com/drive/folders/YOUR_DRIVE_LINK):
-- `handball_match_data.xlsx`: Annotation data.
-- `tracking_data.json`: Player coordinate data.
-- `videos`: Raw match videos (optional for extracting player positions).
+H-VDEP has been evaluated using the Events in Invasion Games Dataset – Handball (EIGD-H). This dataset contains broadcast video streams, synchronized official positional data, and human event annotations from Handball-Bundesliga matches (season 2019/20).  
+**License:** The position and video data are provided by [Kinexon](https://kinexon.com/) with authorization from the [Handball-Bundesliga](https://www.liquimoly-hbl.de/en/), and the dataset is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please ensure appropriate credit is given when using this data.  
+Download the dataset manually from [https://data.uni-hannover.de/dataset/eigd](https://data.uni-hannover.de/dataset/eigd) or via the provided download script (if available).
 
 ### Step 2: Running the Code and Checking the Results
-1. Execute the analysis script:  
-   `python3 run_H-VDEP.py`
-2. Review the generated figures in the `results` folder.
+1. Execute the analysis script by running:  
+   `python3 main.py`
+2. Review the generated figures in the `fig` folder.
