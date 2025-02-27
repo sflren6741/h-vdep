@@ -31,7 +31,7 @@ If you have any questions or issues, please contact the author.
 ## Author
 Ren Kobayashi - kobayashi.ren@g.sp.m.is.nagoya-u.ac.jp
 ## Requirements
-- Python 3.x  
+- Python 3.8.10
 - To install dependencies, run:  
   `pip install -r requirements.txt`
 
